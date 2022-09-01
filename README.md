@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NizarAhamed97
 - 👀 I’m interested in software developer programming languages.
 - 🌱 I’m currently learning HTML, CSS, Javascript and React js
-- 💞️ I’m looking to collaborate on Projects which involves programming
+- 💞️ I’m looking to collaborate on Projects.
 - 📫 How to reach me , My email is nizarahamedm33@gmail.com 
 
 <!---
